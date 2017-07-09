@@ -3,7 +3,7 @@
   (general
     (links 45)
     (no_connects 0)
-    (area 0 0 0 0)
+    (area 169.899999 80.394999 239.35 131.200001)
     (thickness 1.6)
     (drawings 79)
     (tracks 165)
@@ -26,8 +26,8 @@
     (39 F.Mask user)
     (40 Dwgs.User user)
     (41 Cmts.User user)
-    (42 Eco1.User user)
-    (43 Eco2.User user hide)
+    (42 Eco1.User user hide)
+    (43 Eco2.User user)
     (44 Edge.Cuts user)
     (45 Margin user)
     (46 B.CrtYd user)
@@ -688,7 +688,7 @@
     (pad 25 thru_hole circle (at -15.235 -1.42 90) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
   )
 
-  (gr_text "plipbox by lallafa\nPCB by kuro68k\nlallafa.de/blog/amiga-projects/plipbox/" (at 199.75 113) (layer Eco2.User)
+  (gr_text "plipbox by lallafa\nPCB/RS232 by kuro68k\nlallafa.de/blog/amiga-projects/plipbox/" (at 199.75 113) (layer Eco2.User)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_line (start 176 94) (end 176 88) (layer Eco1.User) (width 0.2))
